@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "awSaZcMu8rqEWVuPIbm0rRWHrq9AesESwFsNzkR0qTxpvz9YFAidK35ZpzwZtZt03LPjY3KefzLtpTpa7DL7fQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Asus\\OneDrive\\Asztali gép\\EGYETEM\\2023-2024-1_HARMADIK_FÉLÉV\\IT architektúra\\vsappIT\\ITWebApplication\\ITWebApplication\\ITWebApplication.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Asus\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.4\\microsoft.visualstudio.azure.containers.tools.targets.1.19.4.nupkg.sha512"
+  ],
+  "logs": []
+}
